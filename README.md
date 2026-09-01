@@ -1,4 +1,5 @@
-## Hi there 👋
+##💻 I am a passionate aspiring software developer with a strong interest in Java ☕, Data Structures & Algorithms 🧠. I enjoy building projects 🚀, solving problems 🧩, and continuously improving my technical skills 📚.
+
 
 <!--
 **Yashavantha09/Yashavantha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
